@@ -27,9 +27,3 @@
   - [Old Faithless for LCE (non permanent. singleplayer Only)](https://github.com/DogWav3/Faithless_forMinecraftConsoles/releases)
  ## Credits
  - [Faithless Originaly by StitchSprites](https://modrinth.com/resourcepack/faithless)
-![image1](https://github.com/DogWav3/Faithless-x16-for-LCE-Revelations-/blob/main/images/2026-05-23_16.19.33.png?raw=true)
-![image2](https://github.com/DogWav3/Faithless-x16-for-LCE-Revelations-/blob/main/images/2026-05-23_16.20.59.png?raw=true)
-![image3](https://github.com/DogWav3/Faithless-x16-for-LCE-Revelations-/blob/main/images/2026-05-23_16.27.43.png?raw=true)
-![image4](https://github.com/DogWav3/Faithless-x16-for-LCE-Revelations-/blob/main/images/2026-05-23_16.22.18.png?raw=true)
-![image5](https://github.com/DogWav3/Faithless-x16-for-LCE-Revelations-/blob/main/images/image2.png?raw=true)
-![image6](https://github.com/DogWav3/Faithless-x16-for-LCE-Revelations-/blob/main/images/image.png?raw=true)
